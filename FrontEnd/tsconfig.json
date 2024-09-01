@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/app/(News)/addNews/page.tsx",
+    "src/app/(Map)/map/page.jsx"
+, "src/app/(User)/login/page.tsx", "src/app/(User)/login/LoginForm.jsx", "src/app/admin/LectureScheduleCard.jsx", "src/app/(User)/register/RegisterForm.jsx"  ],
+  "exclude": ["node_modules"]
+}
