@@ -8,6 +8,8 @@ A comprehensive web application for students, providing easy access to lecture s
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
