@@ -84,9 +84,6 @@ Ensure you have the following installed:
 
     Visit [http://localhost:3000](http://localhost:3000) to see your Next.js application running locally.
 
-### Environment Variables
-
-Rename the `.env.example` file to `.env.local` and update it with your environment-specific variables. These might include API keys, database connections, etc. Make sure not to expose sensitive information.
 
 ## Usage
 
