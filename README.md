@@ -8,8 +8,6 @@ A comprehensive web application for students, providing easy access to lecture s
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -91,5 +89,15 @@ Ensure you have the following installed:
 
 Rename the `.env.example` file to `.env.local` and update it with your environment-specific variables. These might include API keys, database connections, etc. Make sure not to expose sensitive information.
 
+## Usage
+Once the development server is running, you can:
+
+View Lecture Schedules: Navigate to the schedule section to see and manage your classes.
+Check Professor Availability: Visit the professor availability section to find out when professors are available for meetings.
+Navigate Campus: Use the interactive map to find your way around the college.
+Stay Updated: Check the news section for the latest announcements and updates from the college.
+Interact with Chatbot: Ask the chatbot questions for instant assistance and information.
+Access Regulations: Review the college's regulations and policies in the designated section.
+Enjoy exploring and using the FCI College Portal!
 ```bash
 cp .env.example .env.local
