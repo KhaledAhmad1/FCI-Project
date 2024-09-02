@@ -1,6 +1,5 @@
 # FCI College Portal
 
-**Description:**  
 A comprehensive web application for students, providing easy access to lecture schedules, professor availability, campus navigation, college news, regulations, and a chatbot for assistance.
 
 ## Table of Contents
@@ -9,7 +8,6 @@ A comprehensive web application for students, providing easy access to lecture s
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 
 ## Features
 
@@ -53,19 +51,39 @@ Ensure you have the following installed:
 
 3. **Install dependencies:**
 
-   Depending on your package manager, run one of the following commands to install all necessary dependencies:
+    Depending on your package manager, run one of the following commands to install all necessary dependencies:
 
-   Using npm:
+    Using npm:
 
     ```bash
     npm install
     ```
 
-   Or using Yarn:
+    Or using Yarn:
 
     ```bash
     yarn install
     ```
+
+4. **Run the Development Server:**
+
+    After setting up the environment variables, start the Next.js development server:
+
+    Using npm:
+
+    ```bash
+    npm run dev
+    ```
+
+    Or using Yarn:
+
+    ```bash
+    yarn dev
+    ```
+
+5. **Open Your Browser:**
+
+    Visit [http://localhost:3000](http://localhost:3000) to see your Next.js application running locally.
 
 ### Environment Variables
 
