@@ -20,8 +20,7 @@ A comprehensive web application for students, providing easy access to lecture s
 
 ## Demo
 
-Include a link to a live demo of your project, if available. This could be a hosted version or a demo video.
-
+Check out the live demo of the FCI College Portal to see it in action.
 - [Live Demo](https://example.com)
 
 ## Installation
@@ -90,14 +89,20 @@ Ensure you have the following installed:
 Rename the `.env.example` file to `.env.local` and update it with your environment-specific variables. These might include API keys, database connections, etc. Make sure not to expose sensitive information.
 
 ## Usage
+
 Once the development server is running, you can:
 
-View Lecture Schedules: Navigate to the schedule section to see and manage your classes.
-Check Professor Availability: Visit the professor availability section to find out when professors are available for meetings.
-Navigate Campus: Use the interactive map to find your way around the college.
-Stay Updated: Check the news section for the latest announcements and updates from the college.
-Interact with Chatbot: Ask the chatbot questions for instant assistance and information.
-Access Regulations: Review the college's regulations and policies in the designated section.
+- **View Lecture Schedules:** Navigate to the schedule section to see and manage your classes. You can add, update, or delete lecture entries, and view them in a user-friendly format.
+
+- **Check Professor Availability:** Visit the professor availability section to find out when professors are available for meetings. The schedule is displayed in an intuitive format to help you easily book appointments.
+
+- **Navigate Campus:** Use the interactive map to find your way around the college. The map highlights key locations and provides easy navigation to various departments and facilities.
+
+- **Stay Updated:** Check the news section for the latest announcements and updates from the college. Stay informed about upcoming events, deadlines, and other important news.
+
+- **Interact with Chatbot:** Ask the chatbot questions for instant assistance and information. The chatbot is designed to help you quickly find answers to common queries and provide guidance on using the portal.
+
+- **Access Regulations:** Review the college's regulations and policies in the designated section. Ensure you are up-to-date with the latest rules and guidelines that affect your academic and campus life.
+
 Enjoy exploring and using the FCI College Portal!
-```bash
-cp .env.example .env.local
+
